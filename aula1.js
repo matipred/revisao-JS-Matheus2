@@ -9,3 +9,4 @@
 // 5 - resolver conflitos
 // 6 - git push
 // teste commit
+// teste commit merge
